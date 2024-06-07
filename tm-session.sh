@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# This helpful script is courtesy of Dr. Keith Shomper of Cedarville University
+
 if [ $# -lt 1 ]
 then
   # when no arguments, just run tmux ls to see what sessions are active
