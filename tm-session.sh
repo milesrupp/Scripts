@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # This helpful script is courtesy of Dr. Keith Shomper of Cedarville University
+# ./tmux-session.sh is a script to better manage your ongoing tmux sessions
 
 if [ $# -lt 1 ]
 then
